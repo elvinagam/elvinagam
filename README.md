@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/57037068/88589670-8c77e580-d06a-11ea-8067-696c17a6a496.gif)
--    Visit my Github account on ![Elvinaqa](https://github.com/elvinaqa) for more personal projects: 
+-    Visit my Github account on [elvinaqa](https://github.com/elvinaqa) for more personal projects: 
+-    ![GitHub Streak](https://github.com/elvinaqa)
 - ⚡ Worked/familiar with prog langs: Python/ C/ C++/ C#/ JS
 - ⚡ Worked/familiar with tools/libs: Tensorflow/ Keras/ Pytorch/ AutoML/ H2OAI/ DriverlessAI/ OpenCV/ YOLOV3/ Tensorflow ODAPI/Face_recognition/DeepPavlov NLP/ Flask/ BS4 Scraping/ D3.js/ Tableau/ Wow CSS/ Tilt.js/ Animate.js/ Spatial Data Analysis/ Kaggle Cloud TPU Processing/ Rasa Stack NLP/ MapBox Framework/ PostgreSQL/ MS Server/ Oracle/ Unity VR Development/ Docker/ 
 - ⚡ Worked/familiar with hardware modules: Arduino/ Raspberry PI/ ESP/
